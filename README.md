@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adelathomaj
-- I am mother of Olimp! 
-- 👀 I’m a Computer Science student studying abroad.
-- 🌱 I’m currently learning JavaScript and studying!
+- I am Olimp's mom! 
+- 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on different projects that will challenge me!
 - 📫 How to reach me? On this email: adelathomaj@yahoo.com
 
