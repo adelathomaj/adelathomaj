@@ -2,5 +2,4 @@
 - 👶🏻 I'm Olimp's mom and wifey of Hysi ♥️
 - 🌱 I'm a Junior FrontEnd Developer to be 💻
 - 💞️ I’m looking to collaborate on different projects that will challenge me!
-- 📫 How to reach me? On this email: adelathomaj@yahoo.com
-
+- 📫 How to reach me? On this email: adelathomaj@yahoo.com![My-OctocatsShortest](https://user-images.githubusercontent.com/87237785/182684068-3d87ff30-68c8-4580-a1e8-5a65d5adb425.gif)
